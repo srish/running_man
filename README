@@ -1,0 +1,5 @@
+JavaScript stopwatch application that uses the Google Gears APIs 
+
+This tutorial describes how to create a simple JavaScript application that uses the APIs provided by Gears .The sample application, called RunningMan, is a location-aware stopwatch that measures both the time and route taken for a journey, showing the journey on a map.
+
+Though written specifically for Android, RunningMan can also be used on the other platforms that Gears supports as the APIs are the same. However, you may need to modify the HTML and CSS as Document Object Model support varies widely between browsers. 
